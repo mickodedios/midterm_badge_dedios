@@ -553,7 +553,7 @@ Output will be in `dist/community-help-desk/` directory.
    ```
 
 ### Netlify Link
-**[Your Netlify URL will be added here after deployment]**
+https://midterm-badge-micko.netlify.app/home
 
 ---
 
